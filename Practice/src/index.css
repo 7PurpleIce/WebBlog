@@ -1,1 +1,20 @@
 @import url('./fonts/font-awesome.css');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #405060;
+}
+
+html,
+body,
+#root {
+    height: 100%;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
